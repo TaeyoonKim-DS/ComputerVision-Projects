@@ -1,8 +1,3 @@
 # KagglePlayground_
 
-
-22년 상반기 '캐글놀이터' 스터디모임에서 다루는 toy projects
-
-## SubHeader
-
-22year first Kaggle Playground study group toy project
+2022 Kaggle Playground Projects
