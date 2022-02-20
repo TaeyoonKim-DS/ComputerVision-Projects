@@ -1,1 +1,1 @@
-
+# Swearing Filter
